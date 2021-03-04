@@ -44,7 +44,7 @@ header nav a:hover {
 /* filme principal */
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('https://github.com/BrunaPires/DIO-Recriando-a-Interface-do-Netflix/blob/main/img/capa.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('https://github.com/BrunaPires/DIO-Recriando-a-Interface-do-Netflix/blob/main/img/capa.jpg?raw=true');
     height:400px;
     background-size: cover;
 
